@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Nunito';
-    src: url('../fonts/Nunito-Medium.ttf'), url('../fonts/Nunito-Medium.ttf');
+    src: url('https://github.com/huyvoquoc/template-portal/blob/edbc23b17bf40b57b5be4f6f9a456e2b88285572/Nunito-Medium.ttf'), url('https://github.com/huyvoquoc/template-portal/blob/edbc23b17bf40b57b5be4f6f9a456e2b88285572/Nunito-Medium.ttf');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
